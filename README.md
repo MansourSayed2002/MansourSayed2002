@@ -46,8 +46,8 @@ A mobile app that helps delivery couriers efficiently manage their orders.
 - Bloc (State Management)
 - Firebase & Supabase
 - Notifications & Local Storage
-
 🔗 Repo: [https://github.com/MansourSayed2002/paseeta.git]
+
 ---
 
 ## 🌱 Currently Learning
