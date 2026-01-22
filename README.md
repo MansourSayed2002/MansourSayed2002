@@ -24,21 +24,30 @@ A book store app built with Flutter
 - Authentication
 - Clean Architecture
 - Firebase  
-🔗 Repo: [link here]
+🔗 Repo: [https://github.com/MansourSayed2002/bookia.git]
 
 ### 🏥 Se7ety
 Healthcare appointment app  
 - Real-time features
 - User-friendly UI  
-🔗 Repo: [link here]
+🔗 Repo: [https://github.com/MansourSayed2002/se7ety.git]
 
-### 🚗 CrazyCar
-Uber-like app (in progress)  
-- Maps & Location
-- Clean Architecture
-- CI/CD  
-🔗 Repo: [link here]
+### 🚚 Passeta – Delivery App for Couriers
+A mobile app that helps delivery couriers efficiently manage their orders.
+**Key Features:**
+- View and manage new delivery orders
+- Update order status in real-time
+- Collect payments from customers
+- Track order progress live
+- Offline support for unstable connections
 
+**Tech Stack:**
+- Flutter & Dart
+- Bloc (State Management)
+- Firebase & Supabase
+- Notifications & Local Storage
+
+🔗 Repo: [https://github.com/MansourSayed2002/paseeta.git]
 ---
 
 ## 🌱 Currently Learning
@@ -49,5 +58,5 @@ Uber-like app (in progress)
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [your link]
-- Email: your@email.com
+- LinkedIn: [www.linkedin.com/in/mansour-sayed-746643275]
+- Email: mansourmans136@email.com
