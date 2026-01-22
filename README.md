@@ -40,12 +40,6 @@ A mobile app that helps delivery couriers efficiently manage their orders.
 - Collect payments from customers
 - Track order progress live
 - Offline support for unstable connections
-
-**Tech Stack:**
-- Flutter & Dart
-- Bloc (State Management)
-- Firebase & Supabase
-- Notifications & Local Storage
   
 🔗 Repo: [https://github.com/MansourSayed2002/paseeta.git]
 
