@@ -5,19 +5,21 @@
 📱 I build clean, scalable mobile apps using Flutter & Dart  
 🧠 Interested in Clean Architecture, Testing & Performance
 
-![Flutter](...)
-![Dart](...)
-![Firebase](...)
-![Supabase](...)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![Bloc](...)
-![Clean Architecture](...)
-![MVVM](...)
+![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue?style=for-the-badge) 
+![Cubit](https://img.shields.io/badge/Cubit-State%20Management-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Scalable-success?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-informational?style=for-the-badge)
 
-![Git](...)
-![GitHub](...)
-![Postman](...)
-![Google Maps](...)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-Location-4285F4?style=for-the-badge&logo=googlemaps)
+![Geolocation](https://img.shields.io/badge/Geolocation-GPS-blue?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github) 
+![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman)
 
 
 💼 Open to Junior / Flutter Developer opportunities
