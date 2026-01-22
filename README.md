@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**MansourSayed2002/MansourSayed2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Mansour Sayed
 
-Here are some ideas to get you started:
+🚀 Flutter Developer  
+📱 I build clean, scalable mobile apps using Flutter & Dart  
+🧠 Interested in Clean Architecture, Testing & Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Mobile:** Flutter, Dart
+- **State Management:** Bloc / Cubit
+- **Backend:** Firebase, Supabase
+- **Architecture:** Clean Architecture, MVVM
+- **Testing:** Unit, Widget Testing, Mockito
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Bookia
+A book store app built with Flutter  
+- Authentication
+- Clean Architecture
+- Firebase  
+🔗 Repo: [link here]
+
+### 🏥 Se7ety
+Healthcare appointment app  
+- Real-time features
+- User-friendly UI  
+🔗 Repo: [link here]
+
+### 🚗 CrazyCar
+Uber-like app (in progress)  
+- Maps & Location
+- Clean Architecture
+- CI/CD  
+🔗 Repo: [link here]
+
+---
+
+## 🌱 Currently Learning
+- Advanced Dart
+- Flutter Testing
+- Design Patterns
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [your link]
+- Email: your@email.com
